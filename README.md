@@ -5,7 +5,7 @@
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen)](https://yourusername.github.io/aws-ccp-guide)
+[![Live Demo](https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen)](https://VB-1405.github.io/aws-ccp-guide)
 
 ---
 
@@ -69,7 +69,7 @@ Visit the GitHub Pages link above. No setup needed.
 
 **Option 2 — Run locally:**
 ```bash
-git clone https://github.com/yourusername/aws-ccp-guide.git
+git clone https://github.com/VB-1405/aws-ccp-guide.git
 cd aws-ccp-guide
 open index.html   # macOS
 # or just drag index.html into any browser
@@ -84,7 +84,7 @@ Download `index.html` directly and open it offline. The entire guide — notes a
 
 ```bash
 # Fork this repo, then:
-git clone https://github.com/yourusername/aws-ccp-guide.git
+git clone https://github.com/VB-1405/aws-ccp-guide.git
 cd aws-ccp-guide
 # Make any edits
 git add .
