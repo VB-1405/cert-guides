@@ -11,7 +11,7 @@
 
 ## 🌐 Live Guide
 
-**[yourusername.github.io/aws-ccp-guide](https://yourusername.github.io/aws-ccp-guide)**
+**[https://github.com/VB-1405/aws-ccp-guide](https://github.com/VB-1405/aws-ccp-guide)**
 
 Single HTML file — works in any browser, no internet required after loading.
 
@@ -128,4 +128,4 @@ MIT — free to use, share, and modify. If this helped you pass, a star on the r
 
 ---
 
-*Built by [Vrishabh Bhavsar](https://www.linkedin.com/in/yourprofile) · Certified May 17, 2026 · [Verify credential](https://www.credly.com/badges/144c27ac-3106-4c8d-a9da-8aa5f3d3064a)*
+*Built by [Vrishabh Bhavsar](https://www.linkedin.com/in/cyberrookie/) · Certified May 17, 2026 · [Verify credential](https://www.credly.com/badges/144c27ac-3106-4c8d-a9da-8aa5f3d3064a)*
